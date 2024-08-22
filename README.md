@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on - [Mevo](https://mevo.me/)<br/>
-🌱 I’m currently learning - Blockchain development using [Rust](https://www.rust-lang.org/) & [Solana](https://solana.com/)<br/>
-💬 Ask me about - Surfing, Formula 1, Pool, Climbing.<br/>
-⚡ Fun fact - I used to be in the circus.
-
+🔭 I’m currently working on - Amplify<br/>
+🌱 I’m currently learning 
+  - Blockchain development using [Rust](https://www.rust-lang.org/) & [Solana](https://solana.com/)<br/>
+  - AI development
+    
 <hr/>
 <br/>
 
