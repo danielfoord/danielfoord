@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on - Amplify<br/>
+<!--🔭 I’m currently working on - Amplify<br/> -->
 🌱 I’m currently learning 
   - Blockchain development using [Rust](https://www.rust-lang.org/) & [Solana](https://solana.com/)<br/>
   - AI development
