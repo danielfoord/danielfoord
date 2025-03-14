@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <hr/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielfoord)](https://git.io/streak-stats)
+![https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight](https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight)
 
 <hr/>
 
