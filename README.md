@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   - AI development
     
 <hr/>
-<br/>
 
 ![https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight](https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight)
 
