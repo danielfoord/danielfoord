@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <hr/>
 
 <div style="display: flex;">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfoord&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight">
 </div>
       
 <hr/>
