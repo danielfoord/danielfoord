@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--🔭 I’m currently working on - Amplify<br/> -->
-🌱 I’m currently learning 
-  - Machine learning Specialization @ Coursera <br/>
+🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using AI<br/>
+🌱 I’m currently learning - Machine learning Specialization @ Coursera <br/>
+💬 Ask me about .NET, Angular or surfing <br/>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-foord-27601b84/)<br/>
+⚡ Fun fact: Bananas are technically berries, but strawberries aren’t.
     
 <hr/>
 
