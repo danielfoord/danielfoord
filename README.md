@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--🔭 I’m currently working on - Amplify<br/> -->
 🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using AI & Extractly, a data ETL pipeline using AI.<br/>
-👯 I’m looking to collaborate on an AST model for functionally generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
+👯 I’m looking to collaborate on - An AST model for generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
 🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera <br/>
 💬 Ask me about .NET, Angular, Flutter or surfing <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-foord-27601b84/)<br/>
