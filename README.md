@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there,+I'm+Daniel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+👋,+I'm+Daniel)](https://git.io/typing-svg)
 
 <!--
 **danielfoord/danielfoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <!--🔭 I’m currently working on - Amplify<br/> -->
 🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using AI & Extractly, a data ETL pipeline using AI.<br/>
