@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-<!--🔭 I’m currently working on - Amplify<br/> -->
 🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using AI & Extractly, a data ETL pipeline using AI.<br/>
 👯 I’m looking to collaborate on - A LINQ like API for generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
 🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera <br/>
