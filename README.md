@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using Fluuter and AI & Extractly, a data ETL pipeline using AI.<br/>
+🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using Flutter and AI & Extractly, a data ETL pipeline using AI.<br/>
 👯 I’m looking to collaborate on - A LINQ like API for generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
 🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera <br/>
 💬 Ask me about .NET, Angular, Flutter or surfing <br/>
