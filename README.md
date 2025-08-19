@@ -59,5 +59,16 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
-
-
+<div style="display: flex;">
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="images/breakout-dark.svg"
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="images/breakout-light.svg"
+        />
+        <img alt="Breakout Game" src="images/breakout-light.svg" />
+    </picture>
+</div>
