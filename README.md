@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfoord&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfoord&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi"/> -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=danielfoord&theme=tokyonight">
 </div>
       
@@ -58,17 +58,3 @@ Here are some ideas to get you started:
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
-
-<div style="display: flex;">
-    <picture>
-        <source
-            media="(prefers-color-scheme: dark)"
-            srcset="images/breakout-dark.svg"
-        />
-        <source
-            media="(prefers-color-scheme: light)"
-            srcset="images/breakout-light.svg"
-        />
-        <img alt="Breakout Game" src="images/breakout-light.svg" />
-    </picture>
-</div>
