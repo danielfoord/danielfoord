@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using Flutter and AI & Extract-ly, a data ETL pipeline using AI.<br/>
 👯 I’m looking to collaborate on - A LINQ like API for generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
-🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera <br/> & Golang
+🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera & Golang <br/>
 💬 Ask me about .NET, Angular, Flutter or surfing <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-foord-27601b84/)<br/>
 ⚡ Fun fact: Bananas are technically berries, but strawberries aren’t.
