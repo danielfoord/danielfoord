@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera & Golang <br/>
 💬 Ask me about .NET, Angular, Flutter or surfing <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-foord-27601b84/)<br/>
-⚡ Fun fact: Bananas are technically berries, but strawberries aren’t.
     
 <hr/>
 
