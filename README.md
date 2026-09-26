@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on FoodFocus, a calorie tracking mobile app using Flutter and AI & Extract-ly, a data ETL pipeline using AI.<br/>
+🔭 I’m currently working on fGBA, a Gameboy, Gameboy Color & Gameboy Advance emulator for mobile.
 👯 I’m looking to collaborate on - A LINQ like API for generating EdgeQL queries in .NET for use with Gel.Net.Driver<br/>
 🌱 I’m currently learning - [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) @ Coursera & Golang <br/>
 💬 Ask me about .NET, Angular, Flutter or surfing <br/>
